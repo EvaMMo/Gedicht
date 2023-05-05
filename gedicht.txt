@@ -4,3 +4,4 @@ Rot
 Grün
 Blau
 Sind alles tolle Farben.
+Ausser Gelb.
