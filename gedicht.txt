@@ -3,5 +3,6 @@ Farbpalette
 Rot
 Grün
 Blau
+türkis
 Sind alles tolle Farben.
 Ausser Gelb.
