@@ -1,6 +1,7 @@
 Farbpalette
 
-Rot
+Magenta
+Lila
 Grün
 Blau
 türkis
